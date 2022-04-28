@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gurusst
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Ops
-- 💞️ I’m looking to collaborate on all DevOps
+- 🌱 I’m currently learning date to day task
+- 💞️ I’m looking to collaborate on all DevOps Tools
 - 📫 How to reach me brotherhoods.the@gmail.com
 
 <!---
